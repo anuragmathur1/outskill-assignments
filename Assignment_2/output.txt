@@ -1,0 +1,12 @@
+(.venv) ➜  Assignment_2 git:(main) ✗ ./Assignment_2_student_scores.py 
+Subject-wise toppers: {'Math': ['Rachel Mcneil', 'Ashley Garcia', 'Heidi Edwards'], 'Science': ['Benjamin Stein'], 'English': ['Warren Harris']}
+Overall toppers: ['Ashley Garcia']
+--------------------
+             Name  Math  Science  English  Attendance (%)  Project Submitted  Average Score Grade      Performance
+0    Robert Roman    78       93       96           96.55               True      89.000000     B     Satisfactory
+1  Joseph Sanchez    91       62       60           98.71               True      71.000000     C     Satisfactory
+2  Christina Hall    68       76       57           99.80              False      67.000000     C  Needs Attention
+3       Ann Brown    54       79       94           52.79               True      75.666667     B  Needs Attention
+4  Thomas Herrera    82       96       86           86.85               True      88.000000     B     Satisfactory
+--------------------
+Summary statistics exported to summary_statistics.csv

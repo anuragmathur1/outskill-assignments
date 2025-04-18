@@ -1,0 +1,35 @@
+(.venv) ➜  Assignment_1 git:(main) ✗ ./Assignment_1_city_temperature.py 
+=================== Assignemnt 1.1 ===================
+{'London': 21.7} 2024-08-30
+{'Tokyo': 31.9} 2024-08-30
+{'Sydney': 16.0} 2024-08-28
+{'Cairo': 36.8} 2024-08-30
+{'Rio': 27.4} 2024-08-30
+=================== Assignemnt 1.2 ===================
+('London', 6, 18.8)
+('Tokyo', 6, 27.5)
+('Sydney', 6, 14.9)
+('Cairo', 6, 32.5)
+('Rio', 6, 23.8)
+=================== Assignemnt 1.3 ===================
+London:
+  Month 6: 6 stretch(es)
+  Month 7: 1 stretch(es)
+  Month 8: 1 stretch(es)
+Tokyo:
+  Month 6: 12 stretch(es)
+  Month 7: 10 stretch(es)
+  Month 8: 7 stretch(es)
+Sydney:
+  Month 6: 1 stretch(es)
+  Month 7: 1 stretch(es)
+  Month 8: 3 stretch(es)
+Cairo:
+  Month 6: 13 stretch(es)
+  Month 7: 5 stretch(es)
+  Month 8: 7 stretch(es)
+Rio:
+  Month 6: 7 stretch(es)
+  Month 7: 5 stretch(es)
+  Month 8: 7 stretch(es)
+(.venv) ➜  Assignment_1 git:(main) ✗ 
