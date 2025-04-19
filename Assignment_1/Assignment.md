@@ -1,5 +1,5 @@
-## Assignment 1
-The file ‘city_temperature.csv’ provides sample data for daily average temperature for 5 cities across 3 months. Make python program to read and process this data into numpy arrays for the following requirements:
+### Assignment 1
+#### The file ‘city_temperature.csv’ provides sample data for daily average temperature for 5 cities across 3 months. Make python program to read and process this data into numpy arrays for the following requirements:
 
 Function to identify the day when max temperature recorded for each city. Return as a dict (city - temp pair)
 
