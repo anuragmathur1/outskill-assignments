@@ -4,3 +4,4 @@ sentence-transformers
 qdrant-client
 google-generativeai
 dotenv
+streamlit
